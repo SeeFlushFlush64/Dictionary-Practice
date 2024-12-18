@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\bin\Debug\net8.0\CheckKeys.exe
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\bin\Debug\net8.0\CheckKeys.deps.json
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\bin\Debug\net8.0\CheckKeys.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\bin\Debug\net8.0\CheckKeys.dll
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\bin\Debug\net8.0\CheckKeys.pdb
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\obj\Debug\net8.0\CheckKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\obj\Debug\net8.0\CheckKeys.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\obj\Debug\net8.0\CheckKeys.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\obj\Debug\net8.0\CheckKeys.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\obj\Debug\net8.0\CheckKeys.dll
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\obj\Debug\net8.0\refint\CheckKeys.dll
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\obj\Debug\net8.0\CheckKeys.pdb
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\obj\Debug\net8.0\CheckKeys.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\obj\Debug\net8.0\ref\CheckKeys.dll
