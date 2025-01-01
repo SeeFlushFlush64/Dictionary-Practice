@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckKeys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c626d13ed59f8e913a838622a738b9dfc76507b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckKeys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckKeys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

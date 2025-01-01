@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CheckKeys
-build_property.ProjectDir = c:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\
+build_property.ProjectDir = C:\Users\micha\OneDrive\Desktop\Dictionary-Practice\CheckKeys\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

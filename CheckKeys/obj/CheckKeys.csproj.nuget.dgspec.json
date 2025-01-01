@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\micha\\OneDrive\\Desktop\\Dictionary-Practice\\CheckKeys\\CheckKeys.csproj": {}
+    "C:\\Users\\micha\\OneDrive\\Desktop\\Dictionary-Practice\\CheckKeys\\CheckKeys.csproj": {}
   },
   "projects": {
-    "c:\\Users\\micha\\OneDrive\\Desktop\\Dictionary-Practice\\CheckKeys\\CheckKeys.csproj": {
+    "C:\\Users\\micha\\OneDrive\\Desktop\\Dictionary-Practice\\CheckKeys\\CheckKeys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\micha\\OneDrive\\Desktop\\Dictionary-Practice\\CheckKeys\\CheckKeys.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\Dictionary-Practice\\CheckKeys\\CheckKeys.csproj",
         "projectName": "CheckKeys",
-        "projectPath": "c:\\Users\\micha\\OneDrive\\Desktop\\Dictionary-Practice\\CheckKeys\\CheckKeys.csproj",
+        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\Dictionary-Practice\\CheckKeys\\CheckKeys.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\micha\\OneDrive\\Desktop\\Dictionary-Practice\\CheckKeys\\obj\\",
+        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\Dictionary-Practice\\CheckKeys\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
